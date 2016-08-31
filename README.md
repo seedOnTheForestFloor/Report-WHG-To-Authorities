@@ -1,30 +1,18 @@
-### Call to demand third party investigations and proper accountability
 
-It is clear we can no longer rely on Bity SA and associates to act responsibility or within the law. 
+### Exercise our legal rights and call for a full investigation
 
-If your irresponsible handling of this situation is any indicator it would be best for both the rightful owners of the tokens you decided to take responsibility of and the customers of Bity that an investigation is conducted.
+**BOTH affected members of the community and others who are watching this massive financial crime happen, watching it actively hurting innocent people and tarnishing the reputation of all cryptocurrencies** request an official investigation from our legal systems.
 
-    "Bity co-founder Alexis Roussel explained to CoinDesk Roussel joined as a board member, and both Tual and Gian Bochsler of Bity serve as member advisors. Slock.it and Bity each invested 10,000 Swiss Francs in DAO.Link, according to Roussel."
-    
-    "...the first authorized Crypto-Currency broker in Switzerland"
+Who to report, the "White Hat Group":
+1. The company Bity SA previously named SBEX
+2. The operators who have gone under the name the "White Hat Group";
+    A. *Alexis Roussel*
+    B. *Gian Bochsler*
 
-    "He is involved in the swiss crypto-currencies regulatory discussions as member of the board of the industry association DFCA.ch."
+Who to report them to:
+1. Switzerland financial authorities that they are registered with
+2. Local authorities who will contact and work with Swiss authorities
 
-    "Président Parti Pirate Suisse"
-
-You should be ashamed of your actions, you are making the entire cryptocurrency community look irresponsible. Further damaging the reputation of a community with people who are actually working to improve the state of peer-to-peer software and not just do anything to make money. 
-
-You are also damaging the image of the Pirate Party, you are in no way living up the the values put forth by the party. 
-
-You took control over other peoples assets/securities utilizing an exploit in a system you advertised and supported. Then you took those assets that did not belong to you but that were in your control to trade for assets/securities that you owned, knowing that it would raise the value of those assets/securities. 
-
-If taking control using an exploit did not already have questionable legality, you using them to increase the value of assets/securities you own absolutely is. Behavior like this is what forced hackers and activists to create cryptocurrency to begin with, you are actively corrupting the activist movement trying to use technology to create a better system, instead of contributing you are abusing the lack of clear regulation to enrich yourselves. 
-
-### People need to exercise their legal rights and call for a full investigation what is happening to provide real accountability
-
-**I recommend that BOTH affected members of the community and others who see what is happening and like me are concerned about the possibility major financial crime occurring in the open hurting innocent community members and the image of all cryptocurrency** request an official investigation from our legal systems.
-
-We can do this by reporting BOTH (1) the company Bity SA previously named SBEX and (2) the operators; those whom are responsible within BIty SA, *Alexis Roussel*, *Gian Bochsler*, *Yves Honoré*, *Weipin* and *Frédéric Jacobs* to BOTH (1) Switzerland financial authorities that they are registered with AND (2) your local authorities who will contact and work with Swiss authorities.
 
 **Switzerland will likely investigate**
 Switzerland is in the middle of a policy shift regarding financial crimes, while it was once considered a safe haven for financial crime, they are now actively take action to crack down on this sort of behavior. They actively cooperate with legal investigations abroad so it is worth filing local investigations too.
