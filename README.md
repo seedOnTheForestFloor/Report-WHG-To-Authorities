@@ -1,5 +1,5 @@
 
-## Exercise our legal rights, call for a full investigation
+# Exercise our legal rights, call for a full investigation
 
 **BOTH affected members of the community and others who are watching this massive financial crime happen, watching it actively hurting innocent people and tarnishing the reputation of all cryptocurrencies** request an official investigation from our legal systems.
 
@@ -17,27 +17,28 @@ https://www.finma.ch/en/enforcement/national-and-international-cooperation/
 
 http://www.swissinfo.ch/eng/anonymous-tip-off_swiss-public-encouraged-to-report-corruption/41662770
 
+### What do I send?
+**I will be sending the letter at the bottom of this page, to the authorities,** *you can use this letter, but it is recommended that you read it, correct any errors you see, make changes, add details that were missed.*
+
 ---
 
-## Swiss Financial Market Supervisory Authority (FINMA)
-#### At the very least make a report to Swiss FINMA, Cybercrime unit and Federal Police
-FINMA issued a liscense to Bity SA.
+## Swiss Financial & Cybercrime Authorities
 
-###### Financial Market Supervisory Authority (FINMA)
+##### Financial Market Supervisory Authority (FINMA)
+FINMA issued a liscense to Bity SA.
 Laupenstrasse 27, 3003 Bern
 Phone +41 31 327 91 00, Fax +41 31 327 91 01
 
 EMAIL: [info@finma.ch](mailto://info@finma.ch)
 
-**--AND--**
+###### --AND--
 
-###### Report to Swiss Cybercrime Unit 
+##### Report to Swiss Cybercrime Unit 
 https://www.cybercrime.admin.ch/kobik/en/home/meldeformular/meldeformular.html
 
 
-**I will be sending the letter at the bottom of this page, to the authorities,** *you can use this letter, but it is recommended that you read it, correct any errors you see, make changes, add details that were missed.*
+###### --AND--
 
----
 
 ### Swiss Federal Office of Police
 **Swiss Federal office of police** actively encourages people to report corruption. They have built a special hotline, corruption they want reported includes:
