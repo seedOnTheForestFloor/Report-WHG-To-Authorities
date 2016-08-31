@@ -101,6 +101,7 @@ Source: https://www.reddit.com/r/ethereum/comments/4p5zk9/we_are_doing_a_white_h
 **I will be sending the letter at the bottom of this page, to the authorities,** *you can use this letter, but it is recommended that you read it, correct any errors you see, make changes, add details that were missed.*
 
 
+
 **Canadian Citizens**
 
 (1) Report fraud and financial crime directly to the Candian government
@@ -111,6 +112,9 @@ http://www.antifraudcentre-centreantifraude.ca/reportincident-signalerincident/i
 
 (3) Report online crime to Vancouver police
 http://vancouver.ca/police/online-crime-reporting/fraud.html
+
+
+
 
 **US Citizens**
 
@@ -126,6 +130,9 @@ https://tips.fbi.gov/
 
 (5) Report online and computer crime to Federal Trade Commission.
 https://www.ftccomplaintassistant.gov/Information?OrgCode=#crnt&panel1-1
+
+
+
 
 **UK Citizens**
 
@@ -150,6 +157,9 @@ Department of Trade and Industry.
 1 Victoria Street, London SW1H 0ET
 Tel: 0207 215 5000
 
+
+
+
 **Australian Citizens**
 
 (1) Report crime to Australian Federal Police
@@ -158,14 +168,23 @@ www.afp.gov.au/policing/cybercrime/crime-prevention.aspx
 (2) Report to Australian crimestoppers
 https://www.crimestoppers.com.au/
 
+
+
+
 **New Zealand Citizens**
 
 (1) Report to your government
 http://www.dia.govt.nz/Censorship-Make-a-Complaint?OpenDocument
 
+
+
+
 **EU Citizens**
 (1) Europol connects law enforcement agencies in Europe
 https://www.europol.europa.eu/content/report-cybercrime
+
+
+
 
 **Swiss Citizens**
 
@@ -175,7 +194,10 @@ https://fedpol.integrityplatform.org/index.php?action=reportIncident&type=report
 (2) Report the incident to the cybercrime unit
 https://www.cybercrime.admin.ch/kobik/en/home/meldeformular/meldeformular.html
 
-** International & United Nations**
+
+
+**International & United Nations**
+
 General information
 http://www.unicri.it/special_topics/securing_cyberspace/cyber_threats/internet_users/
 
