@@ -23,6 +23,8 @@ http://www.swissinfo.ch/eng/anonymous-tip-off_swiss-public-encouraged-to-report-
 ---
 
 ## Swiss Financial & Cybercrime Authorities
+Report to the three Swiss agencies.
+
 
 ##### Financial Market Supervisory Authority (FINMA)
 FINMA issued a liscense to Bity SA.
@@ -94,7 +96,10 @@ Source: https://www.reddit.com/r/ethereum/comments/4p5zk9/we_are_doing_a_white_h
     
 ---
 
+## Local Financial & Cybercrime Authorities
+
 **I will be sending the letter at the bottom of this page, to the authorities,** *you can use this letter, but it is recommended that you read it, correct any errors you see, make changes, add details that were missed.*
+
 
 **Canadian Citizens**
 
