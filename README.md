@@ -1,22 +1,60 @@
 
-### Exercise our legal rights and call for a full investigation
+## Exercise our legal rights, call for a full investigation
 
 **BOTH affected members of the community and others who are watching this massive financial crime happen, watching it actively hurting innocent people and tarnishing the reputation of all cryptocurrencies** request an official investigation from our legal systems.
 
-Who to report, the "White Hat Group":
-1. The company Bity SA previously named SBEX
-2. The operators who have gone under the name the "White Hat Group";
-    A. *Alexis Roussel*
-    B. *Gian Bochsler*
+#### Who to report, the "White Hat Group":
+
+````
+Bity SA, fomerly SBEX SA
+Rue des Usines 44
+2000 Neuchâtel
+Switzerland 
+````
+
+2. Alexis Roussel - Co-founder
+3. Gian Bochsler - Co-founder
+4. The Swiss non-profit Ethereum Foundation
+5. Alex De San
+
+````
+Slock.it GMBH
+info@slock.it
+https://slock.it/
+Schillerstr. Mittweida, Germany
+Company Registration: HRB 30026
+````
+
+1. Stephan Tual       - Founder & COO
+2. Christoph Jentzsch - Founder & CTO
+3. Simon Jentzsch     - Founder & CEO
+
+````
+Swiss non-profit Ethereum Foundation (Stiftung Ethereum)
+Zug, Switzerland 
+https://ethereum.org
+````
+
+1. Vitalik Buterin      
+2. Jeffrey Wilcke
+3. Fabian Vogelsteller
+4. Alex Van De Sande 
 
 Who to report them to:
 1. Switzerland financial authorities that they are registered with
 2. Local authorities who will contact and work with Swiss authorities
 
-
-**Switzerland will likely investigate**
-Switzerland is in the middle of a policy shift regarding financial crimes, while it was once considered a safe haven for financial crime, they are now actively take action to crack down on this sort of behavior. They actively cooperate with legal investigations abroad so it is worth filing local investigations too.
+**Switzerland will investigate**
+Switzerland is in the middle of a policy shift regarding financial crimes, while it was once considered a safe haven for financial crime, they are now actively take action to crack down on this sort of behavior. They actively cooperate with legal investigations abroad so it is worth reporting to local investigations too.
 https://www.finma.ch/en/enforcement/national-and-international-cooperation/
+
+**Report the Ethereum Foundation to the Swiss Authorities**
+"non-profit organisations (such as associations or foundations) in order to gain an unjustifiable material or immaterial advantage."
+
+After reading the message I will be sending, you can use your own judgement if you feel that Ethereum has been using their non-profit t
+
+https://fedpol.integrityplatform.org/index.php?action=reportIncident&type=report
+
 
 "Swiss public encouraged to report corruption" - http://www.swissinfo.ch/eng/anonymous-tip-off_swiss-public-encouraged-to-report-corruption/41662770
 
@@ -34,6 +72,7 @@ Phone +41 31 327 91 00, Fax +41 31 327 91 01
 EMAIL: [info@finma.ch](mailto://info@finma.ch)
 
 I will be personally sending the message below; you are welcome to use it, but I recommend making improvements and adding your own details:
+
 
 ````
     Hello,
@@ -185,7 +224,7 @@ And the individuals within Bity SA which are responsible for making and executin
         Fabian Vogelsteller
 
         Alex Van De Sande 
-
+````
 
 If you agree and feel this warrants at the very least a possible criminal investigation
 
