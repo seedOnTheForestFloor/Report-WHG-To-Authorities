@@ -21,7 +21,7 @@ http://www.swissinfo.ch/eng/anonymous-tip-off_swiss-public-encouraged-to-report-
 
 ## Swiss Financial Market Supervisory Authority (FINMA)
 #### At the very least make a report to Swiss FINMA, Cybercrime unit and Federal Police
-FINMA issued a liscense to Bity SA who is now in pocession of millions of dollars in stolen cryptocurrency.
+FINMA issued a liscense to Bity SA.
 
 ###### Financial Market Supervisory Authority (FINMA)
 Laupenstrasse 27, 3003 Bern
