@@ -19,10 +19,11 @@ http://www.swissinfo.ch/eng/anonymous-tip-off_swiss-public-encouraged-to-report-
 
 ---
 
-### Swiss Financial Market Supervisory Authority (FINMA)
+## Swiss Financial Market Supervisory Authority (FINMA)
+#### At the very least make a report to Swiss FINMA, Cybercrime unit and Federal Police
 FINMA issued a liscense to Bity SA who is now in pocession of millions of dollars in stolen cryptocurrency.
 
-FINMA
+###### Financial Market Supervisory Authority (FINMA)
 Laupenstrasse 27, 3003 Bern
 Phone +41 31 327 91 00, Fax +41 31 327 91 01
 
@@ -30,7 +31,7 @@ EMAIL: [info@finma.ch](mailto://info@finma.ch)
 
 **--AND--**
 
-Report the crime to cybercrime unit in Switzerland
+###### Report to Swiss Cybercrime Unit 
 https://www.cybercrime.admin.ch/kobik/en/home/meldeformular/meldeformular.html
 
 
