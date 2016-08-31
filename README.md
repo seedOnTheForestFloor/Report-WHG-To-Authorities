@@ -3,7 +3,90 @@
 
 **BOTH affected members of the community and others who are watching this massive financial crime happen, watching it actively hurting innocent people and tarnishing the reputation of all cryptocurrencies** request an official investigation from our legal systems.
 
-#### Who to report, the "White Hat Group":
+### Who to report them to?
+1. Switzerland Fedpol who handles corruption with non-profits
+1. Switzerland Financial authorities that Bity SA is are registered with
+2. Local authorities who will contact and work with Swiss authorities
+
+**Switzerland will investigate**
+
+Switzerland is in the middle of a policy shift regarding financial crimes, while it was once considered a safe haven for financial crime, they are now actively taking action to crack down and they actively cooperate with legal international investigations so it is worth reporting to local investigations too.
+https://www.finma.ch/en/enforcement/national-and-international-cooperation/
+
+**Swiss public encouraged to report corruption**
+
+http://www.swissinfo.ch/eng/anonymous-tip-off_swiss-public-encouraged-to-report-corruption/41662770
+
+#### Swiss Financial Market Supervisory Authority (FINMA)
+FINMA issued a liscense to Bity SA who is now in pocession of millions of dollars in stolen cryptocurrency.
+
+FINMA
+Laupenstrasse 27, 3003 Bern
+Phone +41 31 327 91 00, Fax +41 31 327 91 01
+
+EMAIL: [info@finma.ch](mailto://info@finma.ch)
+
+**I will be personally sending the message below; you are welcome to use it, but you should make improvements and adding additional details.**
+
+
+#### Federal Office of Police actively
+**Federal office of police** actively encourages people to report corruption. They have built a special hotline, corruption they want reported includes:
+
+````
+"non-profit organisations (such as associations or foundations) in order to gain an unjustifiable material or immaterial advantage."
+````
+
+**Report to Swiss Federal Police** https://fedpol.integrityplatform.org/index.php?action=reportIncident&type=report
+
+Evidence that Ethereum has been abusing their non-profit to protect DAO assets, using Ethereum resources to promote the DAO, ignoring their mission of decentralization when unilaterally deciding to hard-fork, using the knowledge they will hard fork to trade on insider knowledge and colluding to lower the market value of other cryptocurrencies. 
+
+##### Sources:
+
+    ###### Price manipulation using Ethereum Foundation resources for material gain
+    Chat logs from leaked Ethereum Foundation chat log indicating they were colluding to control the price of competing cryptocurrency 
+    Source: https://imgur.com/a/DHexx#4I1WrPY
+
+    ###### Failing stated mission, then using insider knowledge from internal chats to trade
+    Despite operating a Swiss non-profit with money raised by the community for the "mission to promote and support research, development and education to bring decentralized protocols"
+    They instead made all the decisions centrally, in internal chats, promoted security/assets that Ethereum Foundation members owned, built on Ethereum using their non-profit. 
+    
+    Chat log between Ethereum Foundation and Exchange Operators
+    Source: http://pastebin.com/raw/aMKwQcHR
+    
+    Pull request stating that decision to implement the hard fork in the client used by roughly 95%+ would be defaulting to the option that benefited them the most financially.
+    
+    "default behavior of Geth to be pro-fork as per internal discussions"
+    Source: https://github.com/ethereum/go-ethereum/pull/2814
+
+    They used insider knowledge about the fork to trade
+    "@junseth I will provide my opinion in the way that @Truthcoin would approve of: I have been buying DAO tokens since the security news"
+    Source: https://twitter.com/VitalikButerin/status/741832934814949377
+
+    ###### Foundation member telling people when and when not to buy securities they had invested in
+    "We are doing a white hat attack. More news to follow. Do not panic. Do not sell."
+    https://np.reddit.com/r/TheDao/comments/4p60ie/we_are_doing_a_white_hat_attack_more_news_to/
+    
+    ###### Involvement in the "White Hat Group"/"Robin Hood Group" hack that were then sold to support a cryptocurrency they created and started supporting
+
+    "Bit more info: this isn't spur of the moment. A lot of people have worked around the clock for several days now to prepare for this. The community (individuals from the eth foundation, devs, security experts, ethcore, slock, etc) all came together to organize a response, which is currently ongoing."
+    Source: https://www.reddit.com/r/TheDao/comments/4p60ie/we_are_doing_a_white_hat_attack_more_news_to/
+
+    Alex Van De Sande, or avsa on reddit and twitter, of the Swiss non-profit The Ethereum foundation is now denying any responsibility, or association, likely because of the legal fallout of recent events. But Alex was clearly involved with organizing the white hat group clearly was involved with organizing.
+    He was seen organizing on reddit.com/r/ethereum as seen in the screen shot below.
+    Source: https://d262ilb51hltx0.cloudfront.net/max/800/1*bY93URPw8UvehJXPcP2Qtg.jpeg
+
+    And more reddit posts with the titles "We are doing a white hat attack on the DAO." by avsa.
+    Source: https://www.reddit.com/r/ethereum/comments/4p5zk9/we_are_doing_a_white_hat_attack_on_the_dao/
+    
+    
+### What can you do? Where to make a report to initiate an investigation
+
+The most important report to make, everyone who watched this occur should at least make a report with FINMA:
+
+
+
+
+### Who to report, the "White Hat Group":
 
 ````
 Bity SA, fomerly SBEX SA
@@ -40,38 +123,7 @@ https://ethereum.org
 3. Fabian Vogelsteller
 4. Alex Van De Sande 
 
-Who to report them to:
-1. Switzerland financial authorities that they are registered with
-2. Local authorities who will contact and work with Swiss authorities
 
-**Switzerland will investigate**
-Switzerland is in the middle of a policy shift regarding financial crimes, while it was once considered a safe haven for financial crime, they are now actively take action to crack down on this sort of behavior. They actively cooperate with legal investigations abroad so it is worth reporting to local investigations too.
-https://www.finma.ch/en/enforcement/national-and-international-cooperation/
-
-**Report the Ethereum Foundation to the Swiss Authorities**
-"non-profit organisations (such as associations or foundations) in order to gain an unjustifiable material or immaterial advantage."
-
-After reading the message I will be sending, you can use your own judgement if you feel that Ethereum has been using their non-profit t
-
-https://fedpol.integrityplatform.org/index.php?action=reportIncident&type=report
-
-
-"Swiss public encouraged to report corruption" - http://www.swissinfo.ch/eng/anonymous-tip-off_swiss-public-encouraged-to-report-corruption/41662770
-
-Bity SA (formerly Sbex.ch) received approval from the Swiss organization FINMA 
-https://www.finma.ch/en/enforcement/unauthorised-activities/
-
-### What can you do? Where to make a report to initiate an investigation
-
-The most important report to make, everyone who watched this occur should at least make a report with FINMA:
-
-**Swiss Financial Market Supervisory Authority FINMA**
-Laupenstrasse 27, 3003 Bern
-Phone +41 31 327 91 00, Fax +41 31 327 91 01
-
-EMAIL: [info@finma.ch](mailto://info@finma.ch)
-
-I will be personally sending the message below; you are welcome to use it, but I recommend making improvements and adding your own details:
 
 
 ````
@@ -150,7 +202,7 @@ Only some of the details of the theft, laundering and subsequent fraud are known
 
     Pull request stating that decision to implement the hard fork in the client used by roughly 95%+ would be defaulting to the option that benefited them the most financially.
 
-    default behavior of Geth to be pro-fork as per internal discussions"
+    "default behavior of Geth to be pro-fork as per internal discussions"
     Source: https://github.com/ethereum/go-ethereum/pull/2814
 
     In the creation, advertising, protectionism of the DAO security and taking leadership "curator" roles in the DAO there was a clear incestuous relationship between Slock.it, whos COO Stephan Tual previously worked at the Ethereum Foundation, and the members of the Ethereum Foundation. 
