@@ -32,9 +32,9 @@ EMAIL: [info@finma.ch](mailto://info@finma.ch)
 #### Federal Office of Police actively
 **Federal office of police** actively encourages people to report corruption. They have built a special hotline, corruption they want reported includes:
 
-````
-"non-profit organisations (such as associations or foundations) in order to gain an unjustifiable material or immaterial advantage."
-````
+
+>"non-profit organisations (such as associations or foundations) in order to gain an unjustifiable material or immaterial advantage."
+
 
 **Report to Swiss Federal Police** https://fedpol.integrityplatform.org/index.php?action=reportIncident&type=report
 
@@ -55,27 +55,28 @@ Source: http://pastebin.com/raw/aMKwQcHR
     
 Pull request stating that decision to implement the hard fork in the client used by roughly 95%+ would be defaulting to the option that benefited them the most financially.
     
-"default behavior of Geth to be pro-fork as per internal discussions"
+>"default behavior of Geth to be pro-fork as per internal discussions"
 Source: https://github.com/ethereum/go-ethereum/pull/2814
 
 They used insider knowledge about the fork to trade
-"@junseth I will provide my opinion in the way that @Truthcoin would approve of: I have been buying DAO tokens since the security news"
+>"@junseth I will provide my opinion in the way that @Truthcoin would approve of: I have been buying DAO tokens since the security news"
 Source: https://twitter.com/VitalikButerin/status/741832934814949377
 
 ###### Foundation member telling people when and when not to buy securities they had invested in
-"We are doing a white hat attack. More news to follow. Do not panic. Do not sell."
+>"We are doing a white hat attack. More news to follow. Do not panic. Do not sell."
 https://np.reddit.com/r/TheDao/comments/4p60ie/we_are_doing_a_white_hat_attack_more_news_to/
     
 ###### Involvement in the "White Hat Group"/"Robin Hood Group" hack that were then sold to support a cryptocurrency they created and started supporting, which they had a history of doing as seen in the Skype chat
 
-"Bit more info: this isn't spur of the moment. A lot of people have worked around the clock for several days now to prepare for this. The community (individuals from the eth foundation, devs, security experts, ethcore, slock, etc) all came together to organize a response, which is currently ongoing."
+>"Bit more info: this isn't spur of the moment. A lot of people have worked around the clock for several days now to prepare for this. The community (individuals from the eth foundation, devs, security experts, ethcore, slock, etc) all came together to organize a response, which is currently ongoing."
 Source: https://www.reddit.com/r/TheDao/comments/4p60ie/we_are_doing_a_white_hat_attack_more_news_to/
 
 Alex Van De Sande, or avsa on reddit and twitter, of the Swiss non-profit The Ethereum foundation is now denying any responsibility, or association, likely because of the legal fallout of recent events. But Alex was clearly involved with organizing the white hat group clearly was involved with organizing.
 He was seen organizing on reddit.com/r/ethereum as seen in the screen shot below.
 Source: https://d262ilb51hltx0.cloudfront.net/max/800/1*bY93URPw8UvehJXPcP2Qtg.jpeg
 
-And more reddit posts with the titles "We are doing a white hat attack on the DAO." by avsa.
+And more reddit posts with the titles 
+>"We are doing a white hat attack on the DAO." by avsa.
 Source: https://www.reddit.com/r/ethereum/comments/4p5zk9/we_are_doing_a_white_hat_attack_on_the_dao/
     
     
