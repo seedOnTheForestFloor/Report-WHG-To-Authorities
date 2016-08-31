@@ -118,7 +118,7 @@ http://vancouver.ca/police/online-crime-reporting/fraud.html
 
 **US Citizens**
 
-(1) **Important** Report the crime to IC3 which specializes in international Internet related crime, they will contact Swiss authorities if they feel it is worth investigating 
+(1) Report the crime to IC3 which specializes in international Internet related crime, they will contact Swiss authorities if they feel it is worth investigating 
 https://www.ic3.gov/complaint/default.aspx
 
 (2) **Important** Report the crime to SEC who will contact and work with Swiss authorities https://denebleo.sec.gov/TCRExternal/disclaimer.xhtml
