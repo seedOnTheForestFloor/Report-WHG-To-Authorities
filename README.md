@@ -115,23 +115,16 @@ http://vancouver.ca/police/online-crime-reporting/fraud.html
 
 
 
-
 **US Citizens**
+(1) **Important** Report the crime to SEC who will contact and work with Swiss authorities https://denebleo.sec.gov/TCRExternal/disclaimer.xhtml
 
-(1) Report the crime to IC3 which specializes in international Internet related crime, they will contact Swiss authorities if they feel it is worth investigating 
-https://www.ic3.gov/complaint/default.aspx
-
-(2) **Important** Report the crime to SEC who will contact and work with Swiss authorities https://denebleo.sec.gov/TCRExternal/disclaimer.xhtml
-
-(3) Report directly to the FBI
+(2) Report directly to the FBI, it will get routed to IC3, cybercrime unit.
 https://tips.fbi.gov/
 
-(4) Individuals who suspect possible corporate fraud may report suspicious activity to the FBI in Washington, DC, via a toll-free Corporate Fraud Hotline. The number is (888) 622- 0117. The Hotline is manned Monday through Friday 9 a.m. to 5 p.m. by FBI analysts.
+(3) Individuals who suspect possible corporate fraud may report suspicious activity to the FBI in Washington, DC, via a toll-free Corporate Fraud Hotline. The number is (888) 622- 0117. The Hotline is manned Monday through Friday 9 a.m. to 5 p.m. by FBI analysts.
 
-(5) Report online and computer crime to Federal Trade Commission.
+(4) Report online and computer crime to Federal Trade Commission.
 https://www.ftccomplaintassistant.gov/Information?OrgCode=#crnt&panel1-1
-
-
 
 
 **UK Citizens**
@@ -254,113 +247,289 @@ https://ethereum.org
 
 
 ````
-Hello,
+##Format for Petition to Intervene by Electronic Copy (Email)
 
-I would like to report an active financial crime involving a Swiss SA Bity. Bity SA, possibly in cooperation with others operated under the group names "White Hat Group" or "Robin Hood Group", are responsible for the theft and are currently still largely in possession of ~7,000,000 ether, worth est. between 50-100  million USD.
+##### To: Pamela.Monroe@sec.nh.gov
 
-**Summary of the known criminal activity**
-The cryptocurrency they are in possession of was obtained by exploiting bug in a digital contract that Bity SA actively promoted. 
-Source: https://github.com/slockit/DAO/wiki/Low-Resistance
-Source: http://www.coindesk.com/the-dao-just-raised-50-million-but-what-is-it/
-Source: https://blog.slock.it/announcing-dao-link-the-bridge-between-blockchain-and-brick-and-mortar-companies-9510ba04d236#.lcxdte9kt
+Cc: [include email addresses of all persons on the current distribution, 
+or service, list, which you will find at 
+http://npseccarboncopylist.azurewebsites.net]
 
-In possession the stolen Ether, they attempted to launder it, by breaking it up and sending it to several addresses to hide the source of the money, but because it was done poorly it was quickly determined where it was going, to currency exchanges to be sold.
-Source: https://imgur.com/a/9X1Ce#MFyQd1e 
+Subject: Petition to Intervene & Investigate
 
-Before some exchanges managed to freeze their accounts, they had successfully sold off large amounts of the stolen ETH to buy a new asset/security that was recently created, which they hold significant portion of total security/token. 
-Source: http://i.imgur.com/CBRclaF.jpg
+_____________________________________________________________________________________________
 
-There are likely more crimes actively happening but we only know of this because they currency exchange operators froze some of their accounts due to suspicious activity. This forced the thieves to reveal themselves. It would be best to talk to Kraken.com and Poloneix.com, both exchanges who froze assets of the "White Hat Group" members after their attempts to launder and sell the cryptocurrency.
+Re: Ethereum Foundation, Slock.it GBMH, and Bity SA Petition to Intervene
 
-The crime is being actively perpetrated by the Swiss SA Bity formerly named SBEX, co-founded by Alexis Roussel and Gian Bochsler. 
+Dear Ms. Monroe: 
 
-Bity SA was authorized by FINMA conduct business with cryptocurrency.
+[I/We] respectfully request to intervene in the illegal seizure of Ether by
+Ethereum Foundation, Slock.it GBMH, and Bity SA.
 
-Being a financial expert, who operated a financial currency exchange, Alexis Roussel without a doubt doubt knew the consequences of coordinating a massive sell of cryptocurrency across several markets. He was deliberately trying to to crash the price of the cryptocurrency he stole in favor for the cryptocurrency he supports.
+Due to gross negligence of Ethereum Foundation, a non-profit promoting and
+trading a security created on their cryptocurrency Ethereum called DAO,
+collaborating with the swiss SA Bity and the German company Slock.it created
+a security contract and sold according to wikipedia 160,000,000 USD worth of the
+newly created security for the cryptocurrency Ether.
 
-After being caught selling the stolen cryptocurrency, and having his identity revealed by exchanges Alexis was forced to distribute the cryptocurrency to the owners they used overly complex software, even after being advised not to by many open source developers who even provided simple alternatives, resulting in a bug that forces people to donate money to Bity SA to recover their stolen cryptocurrency.
+Source: https://en.wikipedia.org/wiki/List_of_highest_funded_crowdfunding_projects
 
-Only some of the details of the theft, laundering and subsequent fraud are known because of the failed money laundering attempts that led to their accounts being frozen when trying to liquidate the cryptocurrency for the one they hold more value in. The exact details are not known because the most decisions are decided participants in private back channels, most likely occurring on Skype and Slack channels. 
+After being informed by security researchers a bug in the contract had been found
+both Bity SA and Slock.it continued to promote the security, ignoring the risk.
 
-Along with the clear evidence of involvement from Swiss SA Bity, there appears to be evidence involvement from both the German GMBH Slock.it, and Swiss non-profit Stiftung Ethereum.
+If you look at the forum.daohub.org community you can clearly see, they see it as 
+a security threads like "Is profit from DAO investment unlikely?"
 
-*Likley involvement from separate Swiss non-profit and German GMBH**
-Along with the clear evidence of involvement from Swiss SA Bity, there appears to be evidence involvement from both the German GMBH Slock.it, and Swiss non-profit (Stiftung Ethereum). The "White Hat Group" or "Robin Hood Group" that orchestrated to use the exploit to supposedly safe guard the money was originally organized by Alex Van De Sande of the Ethereum Foundation (Stiftung Ethereum). The reported members were from Bity SA, Slock.it GMBH and The Ethereum Foundation. 
-    
-Ursium on reddit is Slock.it COO Stephan Tual creator of "The DAO" security, who originally designed with the intention to fund his businesses including Slock.it. Clearly named Ethereum Foundation devs as the first people on the list of the "White Hat Group" and included his own company Slock.it.
+The contract they created can be found here: https://daohub.org
 
-"Bit more info: this isn't spur of the moment. A lot of people have worked around the clock for several days now to prepare for this. The community (individuals from the eth foundation, devs, security experts, ethcore, slock, etc) all came together to organize a response, which is currently ongoing."
-Source: https://www.reddit.com/r/TheDao/comments/4p60ie/we_are_doing_a_white_hat_attack_more_news_to/
+Source: https://forum.daohub.org/t/is-profit-from-dao-investment-unlikely/1466
+Source: https://blog.slock.it/no-dao-funds-at-risk-following-the-ethereum-smart-contract-recursive-call-bug-discovery-29f482d348b#.4geeq3dny
 
-Alex Van De Sande, or avsa on reddit and twitter, of the Swiss non-profit The Ethereum foundation is now denying any responsibility, or association, likely because of the legal fallout of recent events. But Alex was clearly involved with organizing the white hat group clearly was involved with organizing.
-He was seen organizing on reddit.com/r/ethereum as seen in the screen shot below.
-Source: https://d262ilb51hltx0.cloudfront.net/max/800/1*bY93URPw8UvehJXPcP2Qtg.jpeg
+Statistical analysis was done on purchasers of the DAO security, using blockchain
+data. 
 
-And more reddit posts with the titles "We are doing a white hat attack on the DAO." by avsa.
-Source: https://www.reddit.com/r/ethereum/comments/4p5zk9/we_are_doing_a_white_hat_attack_on_the_dao/
+It was determined "The wealthy few (top 1% of addresses) control over 55% of the 
+voting power of proposals, while everyone who contributed 100 Ether or less (more than 66%) 
+control barely over 2% of the total tokens."
 
-Alex of the Swiss non-profit the Ethereum foundation even goes further on reddit, tell people specifically to not to sell the security/investment they have been advertising using the Ethereum Foundation blog. Stating is actively being hacked by them. We here could mean presumably the "White Hat Group" or the Ethereum Foundation.
-"We are doing a white hat attack. More news to follow. Do not panic. Do not sell."
-https://np.reddit.com/r/TheDao/comments/4p60ie/we_are_doing_a_white_hat_attack_more_news_to/
+Source: https://medium.com/the-bitcoin-podcast-blog/looking-at-the-dao-address-distribution-part-1-f324e71381bf#.ivoddhx3y
 
-He was seen organizing on twitter.com, claiming it was "our white hat counter attack", presumably he means the "White Hat Group" but the Ethereum Foundation. 
-And from twitter he stated during the first use of the exploit by the "White Hat Group" 
-"alex van de sande ‏@avsa Jun 21 DAO IS BEING SECURELY DRAINED. DO NOT PANIC."
-"alex van de sande ‏@avsa Jun 21 I repeat. There was an attack on the DAO so we launched **our** white hat counter attack. More updates will follow" (Emphasis is mine on 'our')
+After the exploit was reported and disregarded by the operators an anonymous entity
+used the exploit to steal 1/3rd of the cryptocurrency that was used to buy the security.
+Worth est. 50,000,000 USD worth of Ether at the time.
 
-What is clear by all this that the recent claims that Alex Van De Sande has nothing to do with the "White Hat Group" is an obviously lie. He was related, while there is no evidence he was active in the laundering or selling of the ETH tokens for the new version with Bity SA is not clear.
-
-But there is evidence from a leaked Ethereum Foundation skype chat that they were actively trying to manipulate the price of the old cryptocurrency to replace it with their own. In a non-profit channel, they are seen colluding control the price of the competing token. This competing token is the exact same token they worked with Bity SA and Slock.it GMBH to steal up millions of USD worth.
-
-Chat logs from leaked Ethereum Foundation chat log indicating they were colluding to control the price of competing cryptocurrency 
-Source: https://imgur.com/a/DHexx#4I1WrPY
-
-In the chat logs, Jeffrey Wilcke and Fabian Vogelsteller can both be discussing ways to use the resources of the non-profit Ethereum Foundation to control the price of assets they all own significant portions of. 
-
-This is not an isolated incident of Ethereum Foundation using their insider knowledge from operating the non-profit to make purchasing decisions. Vitalik Buterin of the Ethereum Foundation, shortly after the hack but before he announced there would be a hard fork announced he was buying DAO security/tokens on Twitter.
-
-"@junseth I will provide my opinion in the way that @Truthcoin would approve of: I have been buying DAO tokens since the security news"
+After the exploit was used, Vitalik Buterin, the leader of the Ethereum Foundation,
+trying to encourage buying said "@junseth I will provide my opinion in the way that 
+@Truthcoin would approve of: I have been buying DAO tokens since the security news"
 Source: https://twitter.com/VitalikButerin/status/741832934814949377
 
-Later it would come out with chat logs between the exchange operators after the event and even more later in pull requests from the Foundation that internal chats had decided the entire thing long before it was announced. So when Vitalik Buterin was buying DAO tokens, he had already known he would soft or hard, regardless of the stakeholders.
-Chat log between Ethereum Foundation and Exchange Operators
+Anyone with knowledge in finance would immediately ask, why is the leader of a project
+that just had 50 million dollars worth of securities stolen, continue to buy those
+securities? The answer is because Vitalik Buterin had not yet announced it, but had
+already unilaterally decided that they would be creating a hard fork, essentially
+creating a new version of the Ether cryptocurrency and modifying the contract to 
+stop it, and replace it with different code. The original Ether would still exist,
+but they would start a new one alongside it.
+
+Invalidating the claim on their website that Ethereum:
+
+"Ethereum is a decentralized platform that runs smart contracts: applications that 
+run exactly as programmed without any possibility of downtime, censorship, fraud or 
+third party interference."
+
+Source: https://ethereum.org/
+
+Despite pretending this decision was made by the community, the entire decision process
+was centralized to the Ethereum Foundation internal private chats.
+
+Later it would come out with chat logs between the exchange operators after the event and 
+even more later in pull requests from the Foundation that internal chats had decided the 
+entire thing long before it was announced. So when Vitalik Buterin was buying DAO tokens, 
+he had already known he would soft or hard, regardless of the stakeholders. Chat log between 
+Ethereum Foundation and Exchange Operators
+
+You can validate the authenticity of this chat log easily by talking to the exchange operators,
+they operate: http://kraken.com , http://poloniex.com, http://bitfinex.com http://yubi.com
+
 Source: http://pastebin.com/raw/aMKwQcHR
 
-Pull request stating that decision to implement the hard fork in the client used by roughly 95%+ would be defaulting to the option that benefited them the most financially.
+Comments on code published clearly state that decision to implement the hard fork in the client 
+used by roughly 95%+ would be defaulting to the option that benefited them the most financially.
+The deciding factor it would be implemented because the majority of users do not even know how 
+to change the setting.
 
 "default behavior of Geth to be pro-fork as per internal discussions"
 Source: https://github.com/ethereum/go-ethereum/pull/2814
 
-In the creation, advertising, protectionism of the DAO security and taking leadership "curator" roles in the DAO there was a clear incestuous relationship between Slock.it, whos COO Stephan Tual previously worked at the Ethereum Foundation, and the members of the Ethereum Foundation. 
+While they implemented this they started a back up plan where the Ethereum
+Foundation, Slock.it GBMH and Bity SA worked anonymously as a hacking 
+group named "The White Hat Group" or "Robin Hood Group" (WHG or RHG). They
+captured 2/3rd of the Ether that was in the DAO security using the same 
+exploit the original exploiter did.
 
-Despite operating a Swiss non-profit with money raised by the community for the "mission to promote and support research, development and education to bring decentralized protocols"
+This plays a very important part later but because there was a fork, advertising
+efforts were made to brand the new copy of Ethereum with changes to one contract
+as the real Ether while many people continued to use the same Ether The Ethereum
+Foundation had sold them in the crowdsale.
+
+The speculated reason for breaking their system, creating an entire new one is due the 
+massive loss taken by the 1% of DAO owners.
+
+The Ethereum Foundation actively promoted the DAO security on their blog, the
+inventors of Ethereum both Gavin Wood and Vitalik Buterin  became "curators", 
+claiming they would check every contract for errors making sure the DAO was
+secure.The Ethereum Foundation having pitched sales of the DAO to wealthy 
+investors from the financial sector had to answer to them when the contract
+they were supposed to check, failed. Knowing they would lose all their 
+instituational investment from the Financial industry they created a new 
+Ethereum that was fundamentally different than Ethereum.
+
+Some people in the Ethereum community began to call this new version Ethereum
+hard fork, or ETF. This new ETF Ethereum had features that allowed the developers
+to change old transactions, stop applications, and allowed third parties (them) 
+to arbitrary change out the code in a contract. 
+
+This made ETF distinctly different than the Ethereum that much of the community
+continued using that they originally received directly from the Ethereum Foundation
+during the crowdsale. It did not match any of the advertising about unstoppable 
+applications, but the original Ethereum didn't have all these new features
+that changed it into essentially the opposite of the description of Ethereum. So
+people wanting unstoppable applications, with no third party interference and
+censorship resistence just kept using Ethereum, trading it and building with it.
+
+Then the Ethereum Foundation, Slock.it GMBH and Bity SA used the exploit used
+by the hacker that led to the hard fork to get control of the 7,000,000 Ether
+they wrestled from the hacker before the fork. Without telling anyone
+they begin to launder the money. They did this by splitting the amount into
+smaller amounts and sending it to random addresses they created before sending 
+it to the markets.
+
+But because it was done poorly it was quickly determined where it was going, to
+currency exchanges to be sold.
+
+Source: https://imgur.com/a/9X1Ce#MFyQd1e 
+
+Before some exchanges managed to freeze their accounts, they had successfully sold 
+off large amounts of the stolen ETH to buy a new asset/security that was recently
+created, which they hold significant portion of total security/token. 
+
+Source: http://i.imgur.com/CBRclaF.jpg
+
+The "White Hat Group" moved large amounts of the original Ether to exchanges and
+coordinated a mass sell trying to crash the price. The goal was to crash the price
+and convince people still using the original Ethereum that they had no choice. 
+
+Leaked Skype chat logs from the private Ethereum Foundation internal chat were leaked
+showing they were in fact colluding to control the price and force the community to follow the
+decision they unilaterly made. If all the chat logs could be obtained from Skype
+it would be very clear to what extent the collusion and illegal usage of the Ethereum
+Foundation. 
+
+In the private chat of the supposedly non-profit 
+Ethereum Foudnation Skype channel, they are seen colluding control the price of the 
+competing original Ethereum.
+
+Chat logs from leaked Ethereum Foundation chat log indicating they were colluding to 
+control the price of competing the original Ethereum.
+
+Source: https://imgur.com/a/DHexx#4I1WrPY
+
+In the chat logs, Jeffrey Wilcke and Fabian Vogelsteller can both be seen discussing 
+ways to use the resources of the non-profit Ethereum Foundation to control the price 
+of the original Ethereum and the new Ethereum. Owning significant amounts of the new
+Ethereum.
+
+This is not an isolated incident of Ethereum Foundation using their insider knowledge
+from operating the non-profit to make purchasing decisions. Vitalik Buterin of 
+the Ethereum Foundation, shortly after the hack but before he announced there 
+would be a hard fork announced he was buying DAO security/tokens on Twitter.
+
+This is the exact opposite of decentralized governance, depsite operating as a Swiss 
+non-profit with money raised by the community crowd sale for the "mission to promote
+and support research, development and education to bring decentralized protocols". 
+
 Source: http://ethereum.org
 
-They instead made all the decisions centrally, in internal chats, promoted security/assets that Ethereum Foundation members owned, built on Ethereum using their non-profit. 
+There are likely more crimes actively happening but we only know of this because the
+ currency exchange operators froze some of the "White Hat Group" accounts due to 
+suspicious activity. This forced the "White Hat Group" to reveal themselves. It would
+ be best to talk to Kraken.com and Poloneix.com, both exchanges who froze assets of 
+the "White Hat Group" members after their attempts to launder and sell the cryptocurrency.
 
-Despite all the evidence all over social media, the Swiss non-profit Ethereum Foundation now is denying any association, claiming it was just their members acting alone. But they acted alone in large groups, groups comprising of at least 25-75% of all Ethereum Foundation members, so the lines are obviously blurred. Their claims are refuted above and from a quote on Bity SA saying they did help, at least at one time. 
+Ursium on reddit is Slock.it COO Stephan Tual creator of "The DAO" security, who originally 
+designed with the intention to fund his businesses including Slock.it. Clearly named Ethereum 
+Foundation devs as the first people on the list of the "White Hat Group" and included his  
+own company Slock.it. Notice the ordering, the Ethereum Foundation is the first one listed
+when talking about the "White Hat Group".
 
-"It is important to note that neither Slock.it, Alex van de Sande nor anyone else affiliated with the Ethereum Foundation had anything to do with what has taken place since well **before the Hard Fork**." (Emphasis on before the hard fork is mine)
-Source: https://blog.bity.com/
-    
-Fabian Vogelsteller of the Ethereum project is also named for being involved, as people report news they heard in the "White Hat Group" Slack channel:
-Source: https://www.reddit.com/r/ethereum/comments/4p5zk9/we_are_doing_a_white_hat_attack_on_the_dao/d4icbcu
+"Bit more info: this isn't spur of the moment. A lot of people have worked around the clock 
+for several days now to prepare for this. The community (individuals from the eth foundation, 
+devs, security experts, ethcore, slock, etc) all came together to organize a response, which 
+is currently ongoing."
 
-**Background Details**
-The Swiss non-profit Ethereum Foundation (Stiftung Ethereum, https://www.ethereum.org/foundation) founded to promote and develop decentralized and open technologies, including but not exclusively Ethereum. (Source: http://ethereum-classic-guide.readthedocs.io/en/latest/introduction/foundation.html)
-    
-"The legal and financial complexities of raising funds through a presale led to the creation of several legal entities, including the Ethereum Foundation (Stiftung Ethereum) established June 2014 in Zug, Switzerland.
-    
-Beginning in July 2014, Ethereum distributed the initial allocation of ether via a 42-day public ether presale, netting 31,591 bitcoins, worth $18,439,086 at that time, in exchange for about 60,102,216 ether. The results of the sale were initially used to pay back mounting legal debts and also for the months of developer effort that had yet to be compensated, and to finance the ongoing development of the Ethereum." (Source: http://ethereum-classic-guide.readthedocs.io/en/latest/introduction/history-of-ethereum.html)
+Source: https://www.reddit.com/r/TheDao/comments/4p60ie/we_are_doing_a_white_hat_attack_more_news_to/
 
-Neuchatel-based digital currency exchange Bity SA operators Alexis and Gian originally partnered with German UG to a GMBH, Slock.it to co-found DAO.Link according to Alexis Roussel (Source: http://www.coindesk.com/the-dao-just-raised-50-million-but-what-is-it/). They funded development, advised and actively premoted the digital contract which issued cryptocurrency securities. 
+Alex Van De Sande, or avsa on reddit and twitter, of the Swiss non-profit The Ethereum foundation 
+is now denying any responsibility, or association, likely because of the legal fallout of recent 
+events. But Alex was clearly involved with organizing the white hat group clearly was involved 
+with organizing.
 
-After being informed by security researchers a bug in the contract had been found both Bity SA and Slock.it continued to promote the security until it raised 150,000 USD million dollars worth of cryptocurrency assets. (https://blog.slock.it/no-dao-funds-at-risk-following-the-ethereum-smart-contract-recursive-call-bug-discovery-29f482d348b#.4geeq3dny)
+He was seen organizing on reddit.com/r/ethereum as seen in the screen shot below.
 
-After the exploit was reported and disregarded by the operators an anonymous entity used the exploit to steal 1/3rd of the cryptocurrency being held by the digital contract.
-The contract they created can be found here: https://daohub.org/
+Source: https://d262ilb51hltx0.cloudfront.net/max/800/1*bY93URPw8UvehJXPcP2Qtg.jpeg
 
-**People involved or related**
+And more reddit posts with the titles "We are doing a white hat attack on the DAO." by avsa.
+
+Source: https://www.reddit.com/r/ethereum/comments/4p5zk9/we_are_doing_a_white_hat_attack_on_the_dao/
+
+Alex of the Swiss non-profit the Ethereum foundation even goes further on reddit, tell people 
+specifically to not to sell the DAO security they had previously promoted heavily on the Ethereum 
+Foundation blog. Stating is actively being hacked by them. We here could mean presumably the 
+"White Hat Group" or the Ethereum Foundation.
+
+"We are doing a white hat attack. More news to follow. Do not panic. Do not sell."
+
+https://np.reddit.com/r/TheDao/comments/4p60ie/we_are_doing_a_white_hat_attack_more_news_to/
+
+He was seen organizing on twitter.com, claiming it was "our white hat counter attack", presumably 
+he means the "White Hat Group" but the Ethereum Foundation. And from twitter he stated during the 
+first use of the exploit by the "White Hat Group", clearly having insider knowledge by being in
+the internal private Ethereum Foundation chat.
+
+"alex van de sande ‏@avsa Jun 21 DAO IS BEING SECURELY DRAINED. DO NOT PANIC."
+
+"alex van de sande ‏@avsa Jun 21 I repeat. There was an attack on the DAO so we launched 
+**our** white hat counter attack. More updates will follow" (Emphasis is mine on 'our')
+
+What is clear by all this that the recent claims that Alex Van De Sande has nothing to do with the
+"White Hat Group" is an obviously lie.
+
+While there is no evidence he was active participant in the laundering or selling of the original
+Ether cryptocurrency for the new version in collaboration Bity SA is not clear.
+
+What is claer, is there is evidence from a leaked Ethereum Foundation skype chat that they were actively t
+rying to manipulate the price of the original Ethereum cryptocurrency to force investors to buy the new
+Ethereum they promoted. This original Ethereum cryptocurrency never stopped being used by its community,
+even if the Ethereum Foundation actively tried to manipulate pulbic opinion.  The exact same cryptocurrency
+they told exchanges was worthless, was being traded for almost 2 USD per coin. This was also the exact same
+cryptocurrency they worked with Bity SA and Slock.it GMBH to steal millions of USD worth and dump on the market.
+
+The primary purpose of the blockchain which cryptocurrencies are built on is to prevent modificaiton of past 
+transactions to prevent double spending. The Ethereum Foundation added the ability to modify past transactions, 
+to stop applications and allow third party interference so they could replace the DAO code. In doing that they
+no longer were working on Ethereum, and Ethereum never stopped being used or valued even if they did not want
+it to. They got upset and then commited theft, fraud to manipulate the markets and force their centralized 
+unilateral decision on the whole community.
+
+The Ethereum Foundation lied to exchanges, telling them no one is still using the original Ethereum network, 
+despite massive arguments in the Ethereum forum ongoing for a month, where many people said they wanted to 
+'stay on the original Ethereum. One person even wrote a manifesto, convincing others that staying is the 
+only way for Ethereum, the one they were advertised and bought in the crowd sale, could continue existing.
+
+Please start an investigation, please stop these three organizations from operating a corrupt system where
+they take no risks, because they can rewrite history, where they get to decide for everyone which one is
+"real" even if others are actively using, trading and programming the original Ethereum all along. 
+
+Using an exploit to illegally seize the securities they created on the cryptocurrency Ethereum is theft.
+
+We are sending this request to you, with copies to the SEC’s distribution list for this proceeding as noted
+in the “cc” below.
+
+[My/Our] particular rights, duties, privileges, immunities or other substantial interests that may be 
+affected if the SEC does not act immediately, start an investigation and work with Swiss Federal Police.
+
+Swiss Federal office of police actively encourages people to report corruption. They have built a special 
+hotline, corruption they want reported includes:
+
+"non-profit organisations (such as associations or foundations) in order to gain an unjustifiable material 
+or immaterial advantage."
+
+Report to Swiss Federal Police https://fedpol.integrityplatform.org/index.php?action=reportIncident&type=report
+
+Evidence that Ethereum has been abusing their non-profit for unjustifiable advantage is more than clear, as they
+commit massive crimes hoping the system is too complex for them to ever be investigated.
+
+Information on organization and related members:
 
 Bity SA, fomerly SBEX SA
 Rue des Usines 44
@@ -388,6 +557,19 @@ https://ethereum.org
     Jeffrey Wilcke
     Fabian Vogelsteller
     Alex Van De Sande 
+
+[Text of your petition.]
+Thank you for your consideration,
+of this petition.
+Sincerely,
+[Your name/s]
+
+[Attachments, if any, e.g., map, photo, etc.]
+
+cc: SEC dist
+
+
+
 ````
 
 If you agree and feel this warrants at the very least a possible criminal investigation, you should report it.
