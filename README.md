@@ -37,8 +37,6 @@ Phone +41 31 327 91 00, Fax +41 31 327 91 01
 
 EMAIL: [info@finma.ch](mailto://info@finma.ch)
 
-<<<<<<< HEAD
-
 ##### Email addresses of FINMA staff:
 
 info@finma.ch
@@ -231,7 +229,6 @@ https://www.sfo.gov.uk/
 ##### Serious Fraud Office email addresses:
 
 info.berne@fco.gsi.gov.uk
-
 
 
 (4) https://www.gov.uk/contact/govuk
