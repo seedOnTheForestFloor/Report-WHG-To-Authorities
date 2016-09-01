@@ -25,7 +25,6 @@ http://www.swissinfo.ch/eng/anonymous-tip-off_swiss-public-encouraged-to-report-
 ## Swiss Financial & Cybercrime Authorities
 Report to the three Swiss agencies.
 
-
 ##### Financial Market Supervisory Authority (FINMA)
 FINMA issued a liscense to Bity SA.
 Laupenstrasse 27, 3003 Bern
@@ -38,16 +37,12 @@ EMAIL: [info@finma.ch](mailto://info@finma.ch)
 ##### Report to Swiss Cybercrime Unit 
 https://www.cybercrime.admin.ch/kobik/en/home/meldeformular/meldeformular.html
 
-
 ###### --AND--
-
 
 ### Swiss Federal Office of Police
 **Swiss Federal office of police** actively encourages people to report corruption. They have built a special hotline, corruption they want reported includes:
 
-
 >"non-profit organisations (such as associations or foundations) in order to gain an unjustifiable material or immaterial advantage."
-
 
 **Report to Swiss Federal Police** https://fedpol.integrityplatform.org/index.php?action=reportIncident&type=report
 
@@ -100,9 +95,7 @@ Source: https://www.reddit.com/r/ethereum/comments/4p5zk9/we_are_doing_a_white_h
 
 **I will be sending the letter at the bottom of this page, to the authorities,** *you can use this letter, but it is recommended that you read it, correct any errors you see, make changes, add details that were missed.*
 
-
-
-**Canadian Citizens**
+### Canadian Citizens
 
 (1) Report fraud and financial crime directly to the Candian government
 http://www.cic.gc.ca/english/information/protection/fraud/report.asp
@@ -113,28 +106,25 @@ http://www.antifraudcentre-centreantifraude.ca/reportincident-signalerincident/i
 (3) Report online crime to Vancouver police
 http://vancouver.ca/police/online-crime-reporting/fraud.html
 
-
-
-**US Citizens**
+### US Citizens
 (1) **Important** Report the crime to SEC who will contact and work with Swiss authorities https://denebleo.sec.gov/TCRExternal/disclaimer.xhtml
 
 *It is often better to get a list of direct email addresses to staff to get more immediate action because
 this crime is in progress*. 
 
-SEC email addresses:
+##### SEC email addresses:
 IMOCC@sec.gov
 IARDLIVE@sec.gov
 IMOCA@sec.gov
 IMshareholderproposals@sec.gov
 FormPF@sec.gov
 TradingandMarkets@sec.gov
+cyberwatch@sec.gov
 
-FINRA email addresses:
+##### FINRA email addresses:
 pfrdsupport@finra.org
 webiard@finra.org
-
-
-
+whistleblower@finra.org
 
 (2) Report directly to the FBI, it will get routed to IC3, cybercrime unit.
 https://tips.fbi.gov/
@@ -144,8 +134,7 @@ https://tips.fbi.gov/
 (4) Report online and computer crime to Federal Trade Commission.
 https://www.ftccomplaintassistant.gov/Information?OrgCode=#crnt&panel1-1
 
-
-**UK Citizens**
+### UK Citizens
 
 (1) Report cybercrime and fraud to UK police
 http://www.actionfraud.police.uk/report-a-fraud/how-to-report-a-fraud
@@ -168,10 +157,7 @@ Department of Trade and Industry.
 1 Victoria Street, London SW1H 0ET
 Tel: 0207 215 5000
 
-
-
-
-**Australian Citizens**
+### Australian Citizens
 
 (1) Report crime to Australian Federal Police
 www.afp.gov.au/policing/cybercrime/crime-prevention.aspx
@@ -179,25 +165,16 @@ www.afp.gov.au/policing/cybercrime/crime-prevention.aspx
 (2) Report to Australian crimestoppers
 https://www.crimestoppers.com.au/
 
-
-
-
-**New Zealand Citizens**
+### New Zealand Citizens
 
 (1) Report to your government
 http://www.dia.govt.nz/Censorship-Make-a-Complaint?OpenDocument
 
-
-
-
-**EU Citizens**
+### EU Citizens
 (1) Europol connects law enforcement agencies in Europe
 https://www.europol.europa.eu/content/report-cybercrime
 
-
-
-
-**Swiss Citizens**
+### Swiss Citizens
 
 (1) Report corruption, with corporations and non-profits
 https://fedpol.integrityplatform.org/index.php?action=reportIncident&type=report
@@ -205,10 +182,7 @@ https://fedpol.integrityplatform.org/index.php?action=reportIncident&type=report
 (2) Report the incident to the cybercrime unit
 https://www.cybercrime.admin.ch/kobik/en/home/meldeformular/meldeformular.html
 
-
-
-**International & United Nations**
-
+### International & United Nations
 General information
 http://www.unicri.it/special_topics/securing_cyberspace/cyber_threats/internet_users/
 
@@ -219,7 +193,6 @@ http://www.interpol.int/Contact-INTERPOL
 https://www.econsumer.gov/#crnt
 
 ---
-
 
 ### Who to report, the "White Hat Group":
 
