@@ -4,8 +4,6 @@
 3. Add email addresses of staff of reporting/tip agencies that are right juristiction.
 2. Make script to generate comma seperated list of email addresses in README.md
 
-
-
 # Exercise our legal rights, call for a full investigation
 
 **BOTH affected members of the community and others who are watching this massive financial crime happen, watching it actively hurting innocent people and tarnishing the reputation of all cryptocurrencies** request an official investigation from our legal systems.
@@ -39,10 +37,11 @@ Phone +41 31 327 91 00, Fax +41 31 327 91 01
 
 EMAIL: [info@finma.ch](mailto://info@finma.ch)
 
+<<<<<<< HEAD
+
 ##### Email addresses of FINMA staff:
 
 info@finma.ch
-
 
 
 ##### Email addresses of Federal Police staff:
@@ -56,11 +55,9 @@ lulzana.musliu@fedpol.admin.ch
 catherine.maret@fedpol.admin.ch
 
 
-
-
 ###### --AND--
 
-##### Report to Swiss Cybercrime Unit 
+##### Report to Swiss Cybercrime Unit
 https://www.cybercrime.admin.ch/kobik/en/home/meldeformular/meldeformular.html
 
 ###### --AND--
@@ -79,29 +76,35 @@ Evidence that Ethereum has been abusing their non-profit to protect DAO assets, 
 ##### Sources:
 
 ###### Price manipulation using Ethereum Foundation resources for material gain
-Chat logs from leaked Ethereum Foundation chat log indicating they were colluding to control the price of competing cryptocurrency 
+Chat logs from leaked Ethereum Foundation chat log indicating they were colluding to control the price of competing cryptocurrency
+
 Source: https://imgur.com/a/DHexx#4I1WrPY
 
 ###### Failing stated mission, then using insider knowledge from internal chats to trade
 Despite operating a Swiss non-profit with money raised by the community for the "mission to promote and support research, development and education to bring decentralized protocols"
-They instead made all the decisions centrally, in internal chats, promoted security/assets that Ethereum Foundation members owned, built on Ethereum using their non-profit. 
-    
+
+They instead made all the decisions centrally, in internal chats, promoted security/assets that Ethereum Foundation members owned, built on Ethereum using their non-profit.
+
 Chat log between Ethereum Foundation and Exchange Operators
+
 Source: http://pastebin.com/raw/aMKwQcHR
-    
+
 Pull request stating that decision to implement the hard fork in the client used by roughly 95%+ would be defaulting to the option that benefited them the most financially.
-    
+
 >"default behavior of Geth to be pro-fork as per internal discussions"
+
 Source: https://github.com/ethereum/go-ethereum/pull/2814
 
 They used insider knowledge about the fork to trade
 >"@junseth I will provide my opinion in the way that @Truthcoin would approve of: I have been buying DAO tokens since the security news"
+
 Source: https://twitter.com/VitalikButerin/status/741832934814949377
 
 ###### Foundation member telling people when and when not to buy securities they had invested in
+
 >"We are doing a white hat attack. More news to follow. Do not panic. Do not sell."
 https://np.reddit.com/r/TheDao/comments/4p60ie/we_are_doing_a_white_hat_attack_more_news_to/
-    
+
 ###### Involvement in the "White Hat Group"/"Robin Hood Group" hack that were then sold to support a cryptocurrency they created and started supporting, which they had a history of doing as seen in the Skype chat
 
 >"Bit more info: this isn't spur of the moment. A lot of people have worked around the clock for several days now to prepare for this. The community (individuals from the eth foundation, devs, security experts, ethcore, slock, etc) all came together to organize a response, which is currently ongoing."
@@ -111,10 +114,10 @@ Alex Van De Sande, or avsa on reddit and twitter, of the Swiss non-profit The Et
 He was seen organizing on reddit.com/r/ethereum as seen in the screen shot below.
 Source: https://d262ilb51hltx0.cloudfront.net/max/800/1*bY93URPw8UvehJXPcP2Qtg.jpeg
 
-And more reddit posts with the titles 
+And more reddit posts with the titles
 >"We are doing a white hat attack on the DAO." by avsa.
 Source: https://www.reddit.com/r/ethereum/comments/4p5zk9/we_are_doing_a_white_hat_attack_on_the_dao/
-    
+
 ---
 
 ## Local Financial & Cybercrime Authorities
@@ -126,6 +129,12 @@ Source: https://www.reddit.com/r/ethereum/comments/4p5zk9/we_are_doing_a_white_h
 (1) Report fraud and financial crime directly to the Candian government
 http://www.cic.gc.ca/english/information/protection/fraud/report.asp
 
+http://www.cic.gc.ca/english/information/representative/index.asp
+
+##### CIC staff email addresses:
+
+Citizenship-fraud-tips@cic.gc.ca
+
 (2) Report to the anti fraud centre of Canada
 http://www.antifraudcentre-centreantifraude.ca/reportincident-signalerincident/index-eng.htm
 
@@ -136,7 +145,7 @@ http://vancouver.ca/police/online-crime-reporting/fraud.html
 (1) **Important** Report the crime to SEC who will contact and work with Swiss authorities https://denebleo.sec.gov/TCRExternal/disclaimer.xhtml
 
 *It is often better to get a list of direct email addresses to staff to get more immediate action because
-this crime is in progress*. 
+this crime is in progress*.
 
 ##### SEC email addresses:
 
@@ -163,8 +172,6 @@ webiard@finra.org
 
 whistleblower@finra.org
 
-
-
 (2) Report directly to the FBI, it will get routed to IC3, cybercrime unit.
 https://tips.fbi.gov/
 
@@ -173,7 +180,7 @@ https://tips.fbi.gov/
 (4) Report online and computer crime to Federal Trade Commission.
 https://www.ftccomplaintassistant.gov/Information?OrgCode=#crnt&panel1-1
 
-##### NASDAQ carried advertisements that appeared to be articles 
+##### NASDAQ carried advertisements that appeared to be articles
 
 indexdatasales@nasdaqomx.com
 
@@ -575,20 +582,20 @@ only way for Ethereum, the one they were advertised and bought in the crowd sale
 
 Please start an investigation, please stop these three organizations from operating a corrupt system where
 they take no risks, because they can rewrite history, where they get to decide for everyone which one is
-"real" even if others are actively using, trading and programming the original Ethereum all along. 
+"real" even if others are actively using, trading and programming the original Ethereum all along.
 
 Using an exploit to illegally seize the securities they created on the cryptocurrency Ethereum is theft.
 
 We are sending this request to you, with copies to the SEC’s distribution list for this proceeding as noted
 in the “cc” below.
 
-[My/Our] particular rights, duties, privileges, immunities or other substantial interests that may be 
+[My/Our] particular rights, duties, privileges, immunities or other substantial interests that may be
 affected if the SEC does not act immediately, start an investigation and work with Swiss Federal Police.
 
-Swiss Federal office of police actively encourages people to report corruption. They have built a special 
+Swiss Federal office of police actively encourages people to report corruption. They have built a special
 hotline, corruption they want reported includes:
 
-"non-profit organisations (such as associations or foundations) in order to gain an unjustifiable material 
+"non-profit organisations (such as associations or foundations) in order to gain an unjustifiable material
 or immaterial advantage."
 
 Report to Swiss Federal Police https://fedpol.integrityplatform.org/index.php?action=reportIncident&type=report
@@ -617,13 +624,13 @@ Company Registration: HRB 30026
     Simon Jentzsch  Founder & CEO
 
 Ethereum Foundation (Stiftung Ethereum)
-Zug, Switzerland 
+Zug, Switzerland
 https://ethereum.org
 
     Vitalik Buterin
     Jeffrey Wilcke
     Fabian Vogelsteller
-    Alex Van De Sande 
+    Alex Van De Sande
 
 [Text of your petition.]
 Thank you for your consideration,
@@ -634,11 +641,7 @@ Sincerely,
 [Attachments, if any, e.g., map, photo, etc.]
 
 cc: SEC dist
-
-
-
 ````
 
 If you agree and feel this warrants at the very least a possible criminal investigation, you should report it.
-
 
