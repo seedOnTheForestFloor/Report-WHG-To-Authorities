@@ -336,9 +336,7 @@ https://ethereum.org
 
 ##### To: Pamela.Monroe@sec.nh.gov
 
-Cc: [include email addresses of all persons on the current distribution, 
-or service, list, which you will find at 
-http://npseccarboncopylist.azurewebsites.net]
+Cc: 
 
 Subject: Petition to Intervene & Investigate
 
