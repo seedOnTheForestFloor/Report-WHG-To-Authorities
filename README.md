@@ -1,3 +1,8 @@
+Ways to improve document
+1. Improve reporting agency information, remove departments that do not have jurisdiction, add email addresses of staff of ones that do.
+2. Make script to generate comma seperated list of email addresses in README.md
+
+
 
 # Exercise our legal rights, call for a full investigation
 
