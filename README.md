@@ -113,18 +113,31 @@ http://vancouver.ca/police/online-crime-reporting/fraud.html
 this crime is in progress*. 
 
 ##### SEC email addresses:
+
 IMOCC@sec.gov
+
 IARDLIVE@sec.gov
+
 IMOCA@sec.gov
+
 IMshareholderproposals@sec.gov
+
 FormPF@sec.gov
+
 TradingandMarkets@sec.gov
+
 cyberwatch@sec.gov
 
+
 ##### FINRA email addresses:
+
 pfrdsupport@finra.org
+
 webiard@finra.org
+
 whistleblower@finra.org
+
+
 
 (2) Report directly to the FBI, it will get routed to IC3, cybercrime unit.
 https://tips.fbi.gov/
