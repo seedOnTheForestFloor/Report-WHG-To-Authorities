@@ -237,6 +237,20 @@ Department of Trade and Industry.
 1 Victoria Street, London SW1H 0ET
 Tel: 0207 215 5000
 
+### Norway Citizens
+
+Ministry of Foreign Affairs
+
+https://www.regjeringen.no/en/dep/ud/id833/
+
+##### MFA staff email addresses:
+
+post@mfa.no
+
+media@mfa.no
+
+
+
 ### Australian Citizens
 
 (1) Report crime to Australian Federal Police
@@ -332,10 +346,15 @@ ________________________________________________________________________________
 
 Re: Ethereum Foundation, Slock.it GBMH, and Bity SA Petition to Intervene
 
-Dear Ms. Monroe: 
+To Whom May Concern: 
 
-[I/We] respectfully request to intervene in the illegal seizure of Ether by
-Ethereum Foundation, Slock.it GBMH, and Bity SA.
+[I/We] respectfully request to investigate and preferably intervene in the
+illegal seizure of 7,000,000 original Ether by Ethereum Foundation, Slock.it 
+GBMH, and Bity SA. Who tried to coordinate a sell of the illegally obtained
+original Ether to coordinate crashing the price of the original Ethereum 
+to convince users to adopt their new version of Ethereum that has features
+to enable the Ethereum Foundation to change any past transaction, stop
+smart contracts,  allow third parties to replace the code of a smart contract.
 
 Due to gross negligence of Ethereum Foundation, a non-profit promoting and
 trading a security created on their cryptocurrency Ethereum called DAO,
@@ -637,8 +656,13 @@ Sincerely,
 
 [Attachments, if any, e.g., map, photo, etc.]
 
-cc: SEC dist
+
 ````
 
 If you agree and feel this warrants at the very least a possible criminal investigation, you should report it.
+
+
+#### Citations
+1. https://medium.com/the-bitcoin-podcast-blog/looking-at-the-dao-address-distribution-part-1-f324e71381bf#.ivoddhx3y
+2. 
 
