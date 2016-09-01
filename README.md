@@ -1,4 +1,4 @@
-##### Ways to improve document
+##### Ways to improve this document
 1. Improve reporting agency information
 2. Remove reporting agencies that are wrong, and do not have jurisdiction.
 3. Add email addresses of staff of reporting/tip agencies that are right juristiction.
