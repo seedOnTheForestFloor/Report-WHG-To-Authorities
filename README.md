@@ -204,6 +204,8 @@ news@coindesk.com
 
 press@coindesk.com
 
+jurist@jurist.org
+
 ##### Anti-corruption activist & NGOs
 
 pelleb@gmail.com
