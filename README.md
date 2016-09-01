@@ -173,6 +173,47 @@ whistleblower@finra.org
 (2) Report directly to the FBI, it will get routed to IC3, cybercrime unit.
 https://tips.fbi.gov/
 
+http://www.fbi.gov/contact-us/field/field-offices
+
+http://www.fbi.gov/news/pressrel/press-releases/fbi-director-robert-s.-mueller-today-announced-the-inception-of-its-corporate-fraud-hotline
+
+https://www.justice.gov/criminal-ccips/reporting-computer-internet-related-or-intellectual-property-crime#C4
+
+FBI Corporate fraud hotline
+888-622-0117
+
+DOJ
+https://www.justice.gov/usao/eousa/contact
+
+##### FBI email addresses:
+
+
+
+##### DOJ email addresses:
+
+
+Criminal.Division@usdoj.gov
+
+info.FCSC@usdoj.gov
+
+asknlectc@nlectc.org
+
+Press@usdoj.gov
+
+disaster@leo.gov
+
+DOJ.OIP.FOIA@usdoj.gov
+
+nsd.public@usdoj.gov
+
+antitrust.complaints@usdoj.gov
+
+support@grants.gov
+
+antitrust.atr@usdoj.gov
+
+
+
 (3) Individuals who suspect possible corporate fraud may report suspicious activity to the FBI in Washington, DC, via a toll-free Corporate Fraud Hotline. The number is (888) 622- 0117. The Hotline is manned Monday through Friday 9 a.m. to 5 p.m. by FBI analysts.
 
 (4) Report online and computer crime to Federal Trade Commission.
@@ -206,6 +247,16 @@ press@coindesk.com
 
 jurist@jurist.org
 
+ericka@chickowski.com
+
+kelly.jackson.higgins@ubm.com
+
+susan.nunziata@ubm.com
+
+susan.fogarty@ubm.com
+
+rprice@businessinsider.com
+
 ##### Anti-corruption activist & NGOs
 
 pelleb@gmail.com
@@ -215,6 +266,8 @@ roy.snell@corporatecompliance.org
 ti@transparency.org
 
 info@corruptionwatch.org.za
+
+susan.nunziata@ubm.com
 
 ##### Misc
 
