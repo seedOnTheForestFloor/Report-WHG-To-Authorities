@@ -118,6 +118,24 @@ http://vancouver.ca/police/online-crime-reporting/fraud.html
 **US Citizens**
 (1) **Important** Report the crime to SEC who will contact and work with Swiss authorities https://denebleo.sec.gov/TCRExternal/disclaimer.xhtml
 
+*It is often better to get a list of direct email addresses to staff to get more immediate action because
+this crime is in progress*. 
+
+SEC email addresses:
+IMOCC@sec.gov
+IARDLIVE@sec.gov
+IMOCA@sec.gov
+IMshareholderproposals@sec.gov
+FormPF@sec.gov
+TradingandMarkets@sec.gov
+
+FINRA email addresses:
+pfrdsupport@finra.org
+webiard@finra.org
+
+
+
+
 (2) Report directly to the FBI, it will get routed to IC3, cybercrime unit.
 https://tips.fbi.gov/
 
