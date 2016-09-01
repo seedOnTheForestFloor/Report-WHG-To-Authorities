@@ -32,6 +32,10 @@ Phone +41 31 327 91 00, Fax +41 31 327 91 01
 
 EMAIL: [info@finma.ch](mailto://info@finma.ch)
 
+##### FINMA staff email addresses:
+
+info@finma.ch
+
 ###### --AND--
 
 ##### Report to Swiss Cybercrime Unit 
@@ -100,11 +104,20 @@ Source: https://www.reddit.com/r/ethereum/comments/4p5zk9/we_are_doing_a_white_h
 (1) Report fraud and financial crime directly to the Candian government
 http://www.cic.gc.ca/english/information/protection/fraud/report.asp
 
+http://www.cic.gc.ca/english/information/representative/index.asp
+
+##### CIC staff email addresses:
+
+Citizenship-fraud-tips@cic.gc.ca
+
+
 (2) Report to the anti fraud centre of Canada
 http://www.antifraudcentre-centreantifraude.ca/reportincident-signalerincident/index-eng.htm
 
 (3) Report online crime to Vancouver police
 http://vancouver.ca/police/online-crime-reporting/fraud.html
+
+
 
 ### US Citizens
 (1) **Important** Report the crime to SEC who will contact and work with Swiss authorities https://denebleo.sec.gov/TCRExternal/disclaimer.xhtml
