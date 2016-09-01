@@ -253,6 +253,7 @@ stephanie.jones@sky.uk
 
 francoise.cairns@sky.uk
 
+skynewsinternational@sky.uk
 
 
 ##### Serious Fraud Office email addresses:
