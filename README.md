@@ -198,9 +198,15 @@ letters@nytimes.com
 
 scoop@huffingtonpost.com
 
+tips@techcrunch.com
 
+news@coindesk.com
+
+press@coindesk.com
 
 ##### Anti-corruption activist & NGOs
+
+pelleb@gmail.com
 
 roy.snell@corporatecompliance.org
 
@@ -208,6 +214,11 @@ ti@transparency.org
 
 info@corruptionwatch.org.za
 
+##### Misc
+
+sales@govoffice.com
+
+info@avenet.net
 
 ### UK Citizens
 
@@ -225,6 +236,24 @@ fraud.alert@met.police.uk
 
 (4) Serious fraud office for complex fraud
 https://www.sfo.gov.uk/
+
+##### News Organization
+
+news@sky.com
+
+news.plan@sky.uk
+
+newsonline@sky.uk
+
+radio@sky.uk
+
+lucy.ellison@sky.uk
+
+stephanie.jones@sky.uk
+
+francoise.cairns@sky.uk
+
+
 
 ##### Serious Fraud Office email addresses:
 
