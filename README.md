@@ -32,6 +32,25 @@ Phone +41 31 327 91 00, Fax +41 31 327 91 01
 
 EMAIL: [info@finma.ch](mailto://info@finma.ch)
 
+##### Email addresses of FINMA staff:
+
+info@finma.ch
+
+
+
+##### Email addresses of Federal Police staff:
+
+anne-florence.debois@fedpol.admin.ch
+
+sabine.zeilinger@fedpol.admin.ch
+
+lulzana.musliu@fedpol.admin.ch
+
+catherine.maret@fedpol.admin.ch
+
+
+
+
 ###### --AND--
 
 ##### Report to Swiss Cybercrime Unit 
@@ -147,6 +166,37 @@ https://tips.fbi.gov/
 (4) Report online and computer crime to Federal Trade Commission.
 https://www.ftccomplaintassistant.gov/Information?OrgCode=#crnt&panel1-1
 
+##### NASDAQ carried advertisements that appeared to be articles 
+
+indexdatasales@nasdaqomx.com
+
+chris.shields@nasdaqomx.com
+
+##### News Organizations
+
+public@nytimes.com
+
+editorial@nytimes.com
+
+sunbiz@nytimes.com
+
+scitimes@nytimes.com
+
+letters@nytimes.com
+
+scoop@huffingtonpost.com
+
+
+
+##### Anti-corruption activist & NGOs
+
+roy.snell@corporatecompliance.org
+
+ti@transparency.org
+
+info@corruptionwatch.org.za
+
+
 ### UK Citizens
 
 (1) Report cybercrime and fraud to UK police
@@ -163,6 +213,12 @@ fraud.alert@met.police.uk
 
 (4) Serious fraud office for complex fraud
 https://www.sfo.gov.uk/
+
+##### Serious Fraud Office email addresses:
+
+info.berne@fco.gsi.gov.uk
+
+
 
 (4) https://www.gov.uk/contact/govuk
 https://www.gov.uk/government/organisations/uk-trade-investment
