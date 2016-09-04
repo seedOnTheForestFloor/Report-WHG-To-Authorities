@@ -2,7 +2,6 @@
 1. Improve reporting agency information
 2. Remove reporting agencies that are wrong, and do not have jurisdiction.
 3. Add email addresses of staff of reporting/tip agencies that are right juristiction.
-2. Make script to generate comma seperated list of email addresses in README.md
 
 # Exercise our legal rights, call for a full investigation
 
